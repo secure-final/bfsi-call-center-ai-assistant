@@ -1,0 +1,42 @@
+# BFSI Call Center AI Assistant - Configuration
+
+similarity:
+  threshold: 0.88
+  embedding_model: "all-MiniLM-L6-v2"
+  top_k: 1
+  dataset_path: "data/alpaca_bfsi.json"
+  index_path: "data/dataset_index"
+
+slm:
+  base_model: "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+  adapter_path: "models/adapters/v1.0"
+  # Set to false on Windows (bitsandbytes not supported); true on Linux/Mac to save memory
+  use_4bit: false
+  max_new_tokens: 256
+  temperature: 0.3
+
+rag:
+  top_k: 3
+  chroma_path: "data/rag_chroma"
+  knowledge_path: "knowledge"
+  chunk_size: 512
+  chunk_overlap: 64
+  complex_keywords:
+    - emi
+    - interest
+    - rate
+    - penalty
+    - policy
+    - breakdown
+    - schedule
+    - formula
+
+guardrails:
+  enabled: true
+  out_of_domain_message: "I can only help with banking, loan, and account-related queries. Please ask a question in that domain."
+  unsafe_intent_message: "We can only assist with legitimate ways to improve or manage your credit score and financial health. We do not provide guidance on manipulating, misrepresenting, or falsifying any information. If you would like to know how to improve your credit score, correct errors in your report, reduce debt, or understand your score, please ask and we will be happy to help."
+  disclaimer: "This is for informational purposes. Please confirm details with your branch or official documents."
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

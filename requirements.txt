@@ -1,0 +1,31 @@
+# BFSI Call Center AI Assistant - Dependencies
+# Python 3.10+
+
+# Core
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Similarity / Embeddings (Tier 1)
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+
+# Vector store for dataset + RAG
+chromadb>=0.4.0
+
+# SLM (Tier 2)
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+peft>=0.6.0
+bitsandbytes>=0.41.0; sys_platform != "win32"
+
+# Fine-tuning
+datasets>=2.14.0
+
+# Demo
+streamlit>=1.28.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Utils
+tqdm>=4.65.0

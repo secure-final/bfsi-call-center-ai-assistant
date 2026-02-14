@@ -1,0 +1,782 @@
+[
+  {
+    "instruction": "How do I check my loan eligibility?",
+    "input": "",
+    "output": "You can check your loan eligibility through our mobile app under Loans > Check Eligibility, or by visiting any branch. Eligibility is based on income, credit score, and existing obligations. Would you like me to explain the criteria in detail?"
+  },
+  {
+    "instruction": "What are the documents required for a personal loan?",
+    "input": "",
+    "output": "For a personal loan you typically need: valid ID proof, address proof, last 3 months' salary slips or income proof, and bank statements. Self-employed applicants need IT returns and business proof. Specific requirements may vary by product; I can share the exact checklist for your loan type."
+  },
+  {
+    "instruction": "Where can I see my loan application status?",
+    "input": "",
+    "output": "You can check your loan application status by logging into net banking or our app under Applications > Loan Status, or by calling our helpline with your application reference number. You will also receive SMS/email updates at each stage."
+  },
+  {
+    "instruction": "My loan application was rejected. What should I do?",
+    "input": "",
+    "output": "We regret that your application was not approved. You may request the reason for decline from our customer care; common factors include credit score, income stability, or documentation. You can reapply after addressing these, typically after 6 months. We can also suggest alternative products if applicable."
+  },
+  {
+    "instruction": "How long does loan approval take?",
+    "input": "",
+    "output": "Standard processing time for most retail loans is 3 to 7 working days after we have received complete documents and the verification is done. Some products may have faster turnaround. You can track the status on our app or via the application reference number."
+  },
+  {
+    "instruction": "Can I apply for a loan if I have an existing loan?",
+    "input": "",
+    "output": "Yes, you can apply for another loan subject to eligibility. We consider your total obligations and repayment capacity. Having a good repayment history on the existing loan may support your application. The final decision is based on our credit policy."
+  },
+  {
+    "instruction": "What is the minimum salary for a personal loan?",
+    "input": "",
+    "output": "Eligibility criteria, including minimum income, vary by product and location. Please check the specific product page on our website or contact our helpline for the current criteria applicable to your city and employment type."
+  },
+  {
+    "instruction": "How do I know if I am eligible for a home loan?",
+    "input": "",
+    "output": "Home loan eligibility is based on age, income, existing obligations, credit score, and property value. You can use the eligibility calculator on our website or app, or visit a branch for a quick assessment. I can guide you through the steps if you tell me your preferred channel."
+  },
+  {
+    "instruction": "I want to check my loan eligibility without affecting my credit score.",
+    "input": "",
+    "output": "Checking eligibility on our app or website uses a soft inquiry that does not impact your credit score. A formal application involves a hard inquiry. I recommend using our eligibility checker first to see indicative amounts and terms."
+  },
+  {
+    "instruction": "What is the maximum loan amount I can get?",
+    "input": "",
+    "output": "The maximum loan amount depends on your eligibility, income, existing loans, and the product. Use our eligibility calculator on the app or website for an indicative amount, or speak to a relationship manager for a detailed assessment."
+  },
+  {
+    "instruction": "Do I need to be salaried to apply for a personal loan?",
+    "input": "",
+    "output": "We offer personal loans to both salaried and self-employed individuals. Documentation and criteria differ slightly. Salaried applicants need salary slips and employment proof; self-employed need IT returns and business proof. I can list the exact documents for your profile."
+  },
+  {
+    "instruction": "How can I increase my loan eligibility?",
+    "input": "",
+    "output": "You can improve eligibility by maintaining a good credit score, reducing existing debt, showing stable income, and adding a co-applicant if the product allows. Avoiding late payments and keeping a healthy savings history also help. I can suggest steps based on your situation."
+  },
+  {
+    "instruction": "What is the age limit for applying for a loan?",
+    "input": "",
+    "output": "Age criteria vary by product. Generally, the applicant should be at least 21 years and the loan should be fully repaid before retirement age (typically 60–65). Some products have different limits. Please check the product terms or ask for the specific loan type you need."
+  },
+  {
+    "instruction": "Can I get a loan without a credit score?",
+    "input": "",
+    "output": "First-time borrowers may not have a credit history. We may still consider the application based on income, employment, and other factors. Building a credit history with a small loan or credit card can help. Contact our branch or helpline for options available to new-to-credit customers."
+  },
+  {
+    "instruction": "How do I track my loan application?",
+    "input": "",
+    "output": "Track your application using the reference number sent to you via SMS/email. Log in to our app or net banking and go to Applications > Loan Status, or call our helpline and provide the reference number. You will see stages like received, under verification, approved, or disbursed."
+  },
+  {
+    "instruction": "What is the difference between pre-approved and applied loan?",
+    "input": "",
+    "output": "A pre-approved offer is based on our assessment of your relationship and eligibility; you can accept it with minimal documentation. An applied loan is when you submit a formal application that goes through full verification. Pre-approved loans often have faster processing."
+  },
+  {
+    "instruction": "Why was my loan application put on hold?",
+    "input": "",
+    "output": "Applications may be put on hold if we need additional documents, clarification on income or employment, or property verification (for secured loans). Check the status message on the app or contact us with your reference number; we will specify what is required to proceed."
+  },
+  {
+    "instruction": "Can I apply for a loan online?",
+    "input": "",
+    "output": "Yes, you can apply for most retail loans online through our website or app. You will need to fill the form, upload documents, and complete e-signature where applicable. You can also visit a branch if you prefer in-person support."
+  },
+  {
+    "instruction": "What is the processing fee for a personal loan?",
+    "input": "",
+    "output": "Processing fees vary by product and are disclosed at the time of application. They are typically a percentage of the loan amount or a fixed charge. Please check the product page or your loan agreement for the exact fee. No fee is charged for checking eligibility."
+  },
+  {
+    "instruction": "How many co-applicants can be there for a home loan?",
+    "input": "",
+    "output": "For home loans, we typically allow one or two co-applicants, often family members, to improve eligibility and share liability. Exact rules depend on the product. Please confirm with our home loan team or the product terms for your case."
+  },
+  {
+    "instruction": "How is EMI calculated?",
+    "input": "",
+    "output": "EMI is calculated using the loan amount, interest rate, and tenure. The formula is: EMI = P × r × (1+r)^n / ((1+r)^n − 1), where P is principal, r is monthly interest rate, and n is number of installments. You can use the EMI calculator on our app or website for your loan."
+  },
+  {
+    "instruction": "Where can I see my EMI schedule?",
+    "input": "",
+    "output": "You can view your EMI schedule in the loan section of our app or net banking. It shows each installment date, principal and interest split, and outstanding balance. You can also request a statement from the branch or via customer care."
+  },
+  {
+    "instruction": "What is my next EMI date?",
+    "input": "",
+    "output": "Your next EMI date is mentioned in your loan account summary in the app or net banking, and in the SMS/email reminders we send. If you share your loan account number (masked), I can guide you to the exact screen where it is displayed."
+  },
+  {
+    "instruction": "Can I change my EMI date?",
+    "input": "",
+    "output": "EMI date change is subject to product policy. Some loans allow a one-time date change; others are fixed. Please contact our customer care or visit the branch with your loan details to check if your product permits this and what the process is."
+  },
+  {
+    "instruction": "What happens if I miss an EMI?",
+    "input": "",
+    "output": "Missing an EMI may attract late payment charges and impact your credit score. We send reminders before the due date. If you have missed a payment, please pay at the earliest and contact us to regularise the account. Continued defaults can lead to stricter recovery steps as per the loan agreement."
+  },
+  {
+    "instruction": "How can I pay my EMI?",
+    "input": "",
+    "output": "You can pay EMI through auto-debit (if set up), net banking, our app, NEFT/IMPS to the loan account, or at any branch. Ensure you use the correct loan account number and pay before the due date to avoid charges."
+  },
+  {
+    "instruction": "Can I increase my EMI amount to close the loan early?",
+    "input": "",
+    "output": "Yes, many loan products allow prepayment or higher EMI to reduce tenure or outstanding. Prepayment rules and any charges are in your loan agreement. You can request the change through the app, net banking, or by visiting a branch."
+  },
+  {
+    "instruction": "What is the difference between reducing balance and flat rate?",
+    "input": "",
+    "output": "In reducing balance method, interest is calculated on the outstanding principal each month, so effective interest reduces over time. In flat rate, interest is on the full principal for the entire tenure. Our retail loans typically use reducing balance. Your agreement specifies the method."
+  },
+  {
+    "instruction": "How do I get an EMI certificate?",
+    "input": "",
+    "output": "You can download the EMI or loan statement from the app or net banking under Loan Details > Statements. For a stamped certificate, visit the branch or request through customer care. It will show installment details and payment history."
+  },
+  {
+    "instruction": "Why did my EMI amount change?",
+    "input": "",
+    "output": "EMI usually changes only if there is a rate change (in floating-rate loans), you did a restructuring, or you made a partial prepayment and chose to reduce EMI. Check your loan account for any such updates or contact us with your loan number for clarification."
+  },
+  {
+    "instruction": "What is the minimum EMI I can pay?",
+    "input": "",
+    "output": "Minimum EMI is determined by the loan amount, tenure, and interest rate. For a given loan, the EMI is fixed as per your agreement. To lower EMI you may need to extend tenure (if allowed) or make a partial prepayment and restructure; product rules apply."
+  },
+  {
+    "instruction": "Can I get a holiday on EMI?",
+    "input": "",
+    "output": "Some products offer an EMI holiday or moratorium for a short period at the start; this is product-specific. General EMI holidays are not standard. In genuine hardship cases, we may consider restructuring as per policy. Please contact our customer care or branch to discuss options."
+  },
+  {
+    "instruction": "How do I set up auto-debit for EMI?",
+    "input": "",
+    "output": "You can set up auto-debit through net banking or the app under Loan > Auto-debit, by linking your savings account and authorising the mandate. Ensure sufficient balance before the due date. You can also set up NACH with your branch."
+  },
+  {
+    "instruction": "What is included in my EMI?",
+    "input": "",
+    "output": "Your EMI typically includes a principal component and an interest component. In the initial months, the interest portion is higher; over time the principal portion increases. Insurance or other add-ons, if any, are as per your loan agreement."
+  },
+  {
+    "instruction": "How many EMIs are left on my loan?",
+    "input": "",
+    "output": "The number of remaining EMIs is shown in your loan account summary on the app or net banking, along with the outstanding principal. You can also request a statement from customer care or the branch."
+  },
+  {
+    "instruction": "Can I pay two EMIs together?",
+    "input": "",
+    "output": "Yes, you can pay more than one EMI in a single payment. The extra amount will go towards principal (prepayment) or advance EMIs as per our policy. This may reduce tenure or future EMI burden. Check your loan terms for prepayment rules."
+  },
+  {
+    "instruction": "What is the tenure of my loan?",
+    "input": "",
+    "output": "Your loan tenure is stated in the sanction letter and in the app under loan details. It is the number of months over which you repay the loan. Any change due to prepayment or restructuring will reflect in the updated schedule."
+  },
+  {
+    "instruction": "Why is my first EMI higher?",
+    "input": "",
+    "output": "The first EMI can be higher if the loan has a different start date (e.g. part-month interest), or if it includes processing fee or insurance premium. Check your first installment breakdown in the app or in the welcome letter; contact us if you need a detailed explanation."
+  },
+  {
+    "instruction": "How do I know my loan is fully paid?",
+    "input": "",
+    "output": "When the outstanding principal reaches zero and all dues are cleared, the loan is closed. You will see this in the app/net banking and receive a closure letter or NOC. Keep the NOC for your records and to release any collateral if applicable."
+  },
+  {
+    "instruction": "What is the outstanding balance on my loan?",
+    "input": "",
+    "output": "Your outstanding balance is visible in the loan section of the app or net banking. You can also get it via SMS by sending the keyword to our number, or by calling customer care with your loan account number. It is updated after each payment."
+  },
+  {
+    "instruction": "What is the current interest rate for personal loans?",
+    "input": "",
+    "output": "Interest rates for personal loans are product-specific and may vary by customer profile and tenure. Please check the rates on our website or app, or contact our helpline for the latest applicable rate. Rates are subject to change."
+  },
+  {
+    "instruction": "Are loan interest rates fixed or floating?",
+    "input": "",
+    "output": "We offer both fixed and floating rate products. Your loan agreement states which type you have. Fixed rates stay constant for the agreed term; floating rates change with the benchmark. I can explain the difference in detail if you tell me your loan type."
+  },
+  {
+    "instruction": "How often do floating rates change?",
+    "input": "",
+    "output": "Floating rates are linked to a benchmark and reset as per the product terms—typically every quarter or as per the agreement. You will receive a notice of rate change. Check your loan agreement or the app for the reset frequency applicable to your loan."
+  },
+  {
+    "instruction": "What is the interest rate on my existing loan?",
+    "input": "",
+    "output": "Your applicable interest rate is mentioned in your loan agreement and in the loan details section on the app or net banking. If the rate has changed (floating loans), the current rate will be shown there. Contact us with your loan number if you need a written confirmation."
+  },
+  {
+    "instruction": "Do you offer lower rates for existing customers?",
+    "input": "",
+    "output": "We may offer preferential rates or offers to existing customers with a good relationship and repayment history. Please check the offers section in the app or contact your relationship manager or customer care to see if you have any eligible offer."
+  },
+  {
+    "instruction": "What is the processing fee and interest for a home loan?",
+    "input": "",
+    "output": "Processing fees and interest rates for home loans are product-specific and displayed on our website and at the time of application. They depend on loan amount, tenure, and profile. Please refer to the product page or contact our home loan team for current rates and fees."
+  },
+  {
+    "instruction": "Why did my interest rate increase?",
+    "input": "",
+    "output": "In floating-rate loans, the rate changes when the benchmark rate changes. We may also revise product rates from time to time. You would have received a communication for any change. Check the app or your last statement for the current rate; we can explain the reason if you contact us."
+  },
+  {
+    "instruction": "What is the penalty for late EMI payment?",
+    "input": "",
+    "output": "Late payment charges are as per your loan agreement and may be a fixed amount or a percentage of the overdue amount. Paying on time helps avoid these charges. Please refer to your agreement or contact us for the exact charges applicable to your loan."
+  },
+  {
+    "instruction": "Is there a penalty for foreclosing the loan?",
+    "input": "",
+    "output": "Prepayment or foreclosure charges, if any, are mentioned in your loan agreement. Many retail loans allow foreclosure with minimal or no charges after a lock-in period. Please check your agreement or contact us with your loan type for exact terms."
+  },
+  {
+    "instruction": "What is the effective annual rate on my loan?",
+    "input": "",
+    "output": "The effective annual rate (EAR) considers the compounding of interest and may be slightly higher than the stated annual rate. Your agreement or the app may show it. For exact EAR, use the stated rate and compounding frequency from your loan terms, or request a calculation from customer care."
+  },
+  {
+    "instruction": "Do you charge interest on the processing fee?",
+    "input": "",
+    "output": "Processing fee is typically a one-time upfront charge and not usually financed as part of the loan. Interest is charged on the disbursed loan amount. Please refer to your loan agreement or the product terms for exact details."
+  },
+  {
+    "instruction": "What is the rate for education loans?",
+    "input": "",
+    "output": "Education loan rates are product-specific and may vary by institute, course, and profile. Please check our education loan page on the website or app for current rates, or contact our education loan desk for the latest information."
+  },
+  {
+    "instruction": "How is interest calculated for my loan?",
+    "input": "",
+    "output": "Interest is calculated on the outstanding principal, typically on a monthly reducing balance. The formula and method are in your loan agreement. You can see the interest and principal split in your EMI schedule on the app or net banking."
+  },
+  {
+    "instruction": "Can I convert my floating rate to fixed?",
+    "input": "",
+    "output": "Conversion from floating to fixed (or vice versa) is subject to product policy and may involve charges or conditions. Please contact our customer care or visit the branch with your loan details to check if this option is available for your loan."
+  },
+  {
+    "instruction": "What is the benchmark for my floating rate loan?",
+    "input": "",
+    "output": "The benchmark (e.g. repo-linked or MCLR-linked) is stated in your loan agreement. When the benchmark changes, your rate is reset as per the spread mentioned in the agreement. You can find this in the loan terms or by contacting us."
+  },
+  {
+    "instruction": "How do I make a loan payment?",
+    "input": "",
+    "output": "You can pay through our app or net banking by selecting the loan account and entering the amount, or via NEFT/IMPS to your loan account number. You can also pay at any branch or set up auto-debit. Ensure you use the correct loan account number to avoid miscredit."
+  },
+  {
+    "instruction": "Where can I see my payment history?",
+    "input": "",
+    "output": "Payment history is available in the loan section of the app or net banking under transaction history or statements. You can filter by date and download statements. For older records, contact customer care or visit the branch."
+  },
+  {
+    "instruction": "I made a payment but it is not reflecting.",
+    "input": "",
+    "output": "Payments via NEFT/IMPS may take 1–2 working days to reflect. If it has been longer, please share the UTR/reference number and we will trace it. For app or net banking payments, if there was a technical error, contact us with the transaction ID and we will investigate."
+  },
+  {
+    "instruction": "Can I pay my loan through another bank?",
+    "input": "",
+    "output": "Yes, you can transfer funds from any bank to your loan account using NEFT, IMPS, or RTGS. Use the loan account number and our bank details. Ensure the correct account number and reference so the payment is credited properly. Processing time may vary."
+  },
+  {
+    "instruction": "What is the late payment fee?",
+    "input": "",
+    "output": "Late payment or bounce charges are as per your loan agreement—often a fixed amount or a percentage of the overdue EMI. To avoid charges, please pay before the due date. Check your agreement or contact us for the exact amount."
+  },
+  {
+    "instruction": "How do I get a payment receipt?",
+    "input": "",
+    "output": "You can download payment receipts or statements from the app or net banking after each payment. For a stamped receipt, visit the branch or request through customer care. Keep the UTR/reference for payments made from other banks."
+  },
+  {
+    "instruction": "Can I pay extra towards my loan?",
+    "input": "",
+    "output": "Yes, you can make partial prepayments or pay extra; the amount will go towards principal subject to product terms. Some loans have a minimum prepayment amount or charges. Check your agreement or the app for prepayment options and any applicable charges."
+  },
+  {
+    "instruction": "What are the modes of payment for EMI?",
+    "input": "",
+    "output": "You can pay EMI via auto-debit, net banking, our app, NEFT/IMPS to the loan account, or at branch counters. Choose the mode that is convenient; ensure payment is made before the due date to avoid late charges."
+  },
+  {
+    "instruction": "I want to close my loan. What is the process?",
+    "input": "",
+    "output": "To close the loan, pay the outstanding principal and any accrued interest or charges. You can get the exact closure amount from the app or by calling customer care. After payment, we will issue a closure letter or NOC. For secured loans, follow the process to release the collateral."
+  },
+  {
+    "instruction": "Why was my payment rejected?",
+    "input": "",
+    "output": "Payments can be rejected due to insufficient balance, wrong account number, or technical issues. Check the error message in the app or from your bank. If the amount was debited but not credited, share the UTR and we will trace and credit if received."
+  },
+  {
+    "instruction": "How long does it take for payment to reflect?",
+    "input": "",
+    "output": "Payments through our app or net banking usually reflect immediately or within a few hours. NEFT/IMPS from other banks may take 1–2 working days. If it takes longer, contact us with the transaction reference for tracing."
+  },
+  {
+    "instruction": "Can I change my payment mode?",
+    "input": "",
+    "output": "Yes, you can switch between auto-debit, manual payment via app or net banking, or branch payment. To change auto-debit, update the mandate in the app or net banking. Ensure sufficient balance in the linked account if you use auto-debit."
+  },
+  {
+    "instruction": "What is the minimum amount I can pay towards my loan?",
+    "input": "",
+    "output": "For regular EMI, you need to pay the full EMI amount. For prepayment, the minimum may be specified in your loan agreement. Check the prepayment section in the app or contact us for the minimum partial prepayment amount, if any."
+  },
+  {
+    "instruction": "Do you accept payments on holidays?",
+    "input": "",
+    "output": "Online payments through the app or net banking can be made any time; they will be processed on the next working day if the day is a bank holiday. Branch counters are closed on holidays. Plan your payment so it is credited before the due date."
+  },
+  {
+    "instruction": "How do I update my contact details for payment reminders?",
+    "input": "",
+    "output": "You can update your mobile number and email in the app under Profile > Contact Details, or through net banking. For security, we may require OTP or branch verification. Once updated, payment reminders will be sent to the new number/email."
+  },
+  {
+    "instruction": "I want to cancel my auto-debit for EMI.",
+    "input": "",
+    "output": "You can cancel auto-debit in the app or net banking under Loan > Auto-debit or Mandates. Ensure you pay the EMI through another mode before the due date. If you have an NACH mandate from the branch, you may need to submit a cancellation form."
+  },
+  {
+    "instruction": "What is the outstanding amount I need to pay to close the loan?",
+    "input": "",
+    "output": "The exact closure amount (outstanding principal plus any interest or charges up to closure date) is shown in the app under loan details, or you can request it from customer care. Use this amount for full repayment to close the loan."
+  },
+  {
+    "instruction": "Can I get a refund if I overpaid?",
+    "input": "",
+    "output": "If you have overpaid, the excess will typically be adjusted against future dues or refunded as per our policy. Contact customer care with your loan account number and payment details; we will verify and process the adjustment or refund as applicable."
+  },
+  {
+    "instruction": "How do I set up a standing instruction for loan payment?",
+    "input": "",
+    "output": "You can set up a standing instruction or auto-debit through the app or net banking by linking your account and authorising the mandate. Alternatively, you can give a standing instruction at your bank to transfer the EMI amount to your loan account on a fixed date each month."
+  },
+  {
+    "instruction": "When is my EMI due date?",
+    "input": "",
+    "output": "Your EMI due date is in your loan agreement and in the app under loan details. We also send SMS and email reminders before the due date. If you have multiple loans, each may have a different due date; check the schedule in the app."
+  },
+  {
+    "instruction": "How do I register for net banking?",
+    "input": "",
+    "output": "You can register for net banking on our website by clicking Register and following the steps with your account number, registered mobile, and debit card. You will receive an OTP to set your login password. Alternatively, visit a branch with ID proof to get the registration form."
+  },
+  {
+    "instruction": "I forgot my net banking password.",
+    "input": "",
+    "output": "Use the 'Forgot password' link on the login page and follow the steps with your registered mobile number. You will receive an OTP to reset the password. If you do not have access to the mobile number, visit a branch with ID proof to reset after verification."
+  },
+  {
+    "instruction": "How do I link my account to the app?",
+    "input": "",
+    "output": "Download our app, choose Login/Register, and enter your account number and registered mobile. Complete OTP verification and set your MPIN or biometric. Your linked accounts will appear. For adding another account, go to Profile > Link Account and follow the steps."
+  },
+  {
+    "instruction": "What are your customer care hours?",
+    "input": "",
+    "output": "Our customer care is available 24/7 for urgent banking issues. For product-specific queries, some lines may have extended hours. You can also use the app chat or email. Visit our website for the exact toll-free number and hours for your region."
+  },
+  {
+    "instruction": "How do I raise a complaint?",
+    "input": "",
+    "output": "You can raise a complaint through the app under Help > Complaints, via net banking, or by calling customer care. You will receive a reference number. We aim to resolve issues within the stated timeline. You can track status using the reference number."
+  },
+  {
+    "instruction": "Where is the nearest branch?",
+    "input": "",
+    "output": "You can find the nearest branch or ATM on our website or app under Branch/ATM Locator by allowing location or entering your city/pin code. You can also call our helpline for the address and working hours."
+  },
+  {
+    "instruction": "How do I update my address?",
+    "input": "",
+    "output": "Update your address through the app or net banking under Profile > Update Address, with OTP verification. For a change of permanent address, we may require a document proof; you can upload it or submit at a branch. It may take a few days to reflect after verification."
+  },
+  {
+    "instruction": "What documents do you need for KYC?",
+    "input": "",
+    "output": "Standard KYC includes a valid ID proof (e.g. Aadhaar, PAN) and address proof. We may ask for additional documents depending on the product. You can complete e-KYC through the app with Aadhaar and OTP, or submit documents at a branch."
+  },
+  {
+    "instruction": "How can I get a duplicate statement?",
+    "input": "",
+    "output": "You can download account or loan statements from the app or net banking for the date range you need. For a physical duplicate statement or for older periods, request through customer care or visit the branch. A nominal charge may apply for physical statements as per our tariff."
+  },
+  {
+    "instruction": "What is your toll-free number?",
+    "input": "",
+    "output": "Our toll-free number is available on our website and in the app under Contact Us. It may vary by region. Use the number from our official website or app to avoid fraud. We do not ask for OTP or password over the phone."
+  },
+  {
+    "instruction": "How do I block my lost card?",
+    "input": "",
+    "output": "Block your card immediately via the app under Cards > Block Card, or by calling our 24/7 helpline. You can also use net banking. Once blocked, the card cannot be used. Request a replacement from the app or by calling customer care."
+  },
+  {
+    "instruction": "I did not receive my new card.",
+    "input": "",
+    "output": "Card delivery usually takes 7–10 working days. If it has been longer, check the status in the app under Cards or call customer care with your application reference. If the card was returned due to wrong address, update your address and request re-dispatch."
+  },
+  {
+    "instruction": "How do I activate my new debit card?",
+    "input": "",
+    "output": "You can activate the card through the app (Cards > Activate), at an ATM with first use, or by calling the number on the card. You may need to set a PIN at the ATM or through the app. Do not share your PIN or OTP with anyone."
+  },
+  {
+    "instruction": "What is the daily withdrawal limit?",
+    "input": "",
+    "output": "Daily withdrawal limits depend on your card type and are set for your security. You can check or change the limit in the app under Cards > Limits, or contact customer care. ATM and POS limits may differ; the exact limits are in your card welcome letter."
+  },
+  {
+    "instruction": "How do I enable international transactions?",
+    "input": "",
+    "output": "You can enable international usage for your card in the app under Cards > Settings, or through net banking. You may need to set a separate limit. For security, we recommend enabling only when required and disabling after use."
+  },
+  {
+    "instruction": "I see a transaction I did not do.",
+    "input": "",
+    "output": "If you do not recognise a transaction, report it immediately by blocking the card in the app or by calling our helpline. We will investigate and may issue a provisional credit as per policy. Keep your card blocked until the issue is resolved."
+  },
+  {
+    "instruction": "How do I add a nominee?",
+    "input": "",
+    "output": "You can add or update nominee details through the app or net banking under Account > Nominee, or by submitting the form at a branch. Nominee details help in claim settlement. Keep the information updated."
+  },
+  {
+    "instruction": "What is the process to close my account?",
+    "input": "",
+    "output": "To close your account, visit the branch with your passbook and ID. Ensure all dues are cleared and linked services are closed. We will process the closure and hand over the balance by cheque or transfer. Some accounts can be closed through the app if eligible."
+  },
+  {
+    "instruction": "How do I get a balance certificate?",
+    "input": "",
+    "output": "You can request a balance certificate through the app or net banking under Requests, or at the branch. It may take 1–2 working days. A nominal charge may apply as per our tariff. The certificate is for the balance as on the requested date."
+  },
+  {
+    "instruction": "What are the charges for non-maintenance of minimum balance?",
+    "input": "",
+    "output": "Minimum balance and charges for non-maintenance are as per your account type and our tariff. You can check the tariff on our website or in the welcome kit. To avoid charges, maintain the required balance or switch to an account that suits your usage."
+  },
+  {
+    "instruction": "How do I request a cheque book?",
+    "input": "",
+    "output": "You can request a cheque book through the app or net banking under Requests > Cheque Book, or at the branch. It will be sent to your registered address. Some accounts have limited free cheque books; additional books may attract a charge as per the tariff."
+  },
+  {
+    "instruction": "I want to stop a cheque.",
+    "input": "",
+    "output": "You can request a stop payment through the app or net banking by providing the cheque number and amount, or at the branch. A stop payment charge may apply. Ensure you give the correct details so we can identify the cheque."
+  },
+  {
+    "instruction": "How do I transfer money to another account?",
+    "input": "",
+    "output": "You can transfer money via the app or net banking using NEFT, IMPS, or RTGS. Add the payee with account number and IFSC, then initiate the transfer. Ensure the details are correct. You may need to add the beneficiary first; activation may take some time as per RBI norms."
+  },
+  {
+    "instruction": "What is the limit for IMPS transfer?",
+    "input": "",
+    "output": "IMPS limits vary by bank and your profile. You can check your limit in the app under Transfer > IMPS or in the limits section. For higher amounts, use NEFT or RTGS. Limits are set for your security and may be increased on request subject to verification."
+  },
+  {
+    "instruction": "How do I register for SMS alerts?",
+    "input": "",
+    "output": "You can enable SMS alerts in the app under Profile > Notifications or in net banking under Alerts. Choose the types of transactions you want to be notified about. Some alerts may be free; others may have a nominal charge as per our tariff."
+  },
+  {
+    "instruction": "What is the process for NRI account?",
+    "input": "",
+    "output": "NRI accounts (NRE/NRO) can be opened with valid passport, visa, and PIS approval if applicable. You can start the process online on our website or visit a branch. Documentation and eligibility are as per RBI guidelines. Our NRI desk can guide you step by step."
+  },
+  {
+    "instruction": "How do I update my mobile number?",
+    "input": "",
+    "output": "Update your mobile number in the app (with OTP to the old number if active) or at the branch with ID proof. For accounts where the old number is not accessible, branch verification is required. Once updated, all OTPs and alerts will go to the new number."
+  },
+  {
+    "instruction": "I am not able to login to the app.",
+    "input": "",
+    "output": "Ensure you have the latest app version and a stable internet connection. If you forgot the MPIN, use 'Forgot MPIN' and reset with OTP. If the issue persists, clear app cache or reinstall, or contact customer care. We will never ask for your MPIN or OTP over the phone."
+  },
+  {
+    "instruction": "What is the interest rate on savings account?",
+    "input": "",
+    "output": "Savings account interest rates are published on our website and may vary by balance slab. Interest is calculated on the daily balance and credited as per the account terms. Please check the current rates on our website or in the product terms."
+  },
+  {
+    "instruction": "How do I get a loan statement for tax purpose?",
+    "input": "",
+    "output": "You can download the loan interest certificate or full statement from the app or net banking under Loan > Statements. For a specific period or stamped copy, request through customer care or the branch. This can be used for income tax filing where applicable."
+  },
+  {
+    "instruction": "What is loan eligibility?",
+    "input": "",
+    "output": "Loan eligibility is the maximum amount and terms we can offer you based on your income, credit score, existing obligations, and other factors. You can check it on our app or website without affecting your credit score."
+  },
+  {
+    "instruction": "How to check application status of loan?",
+    "input": "",
+    "output": "Check your loan application status in the app under Applications, or on net banking. Use the application reference number sent to you. You can also call our helpline with the reference number for the current status."
+  },
+  {
+    "instruction": "When is my next EMI due?",
+    "input": "",
+    "output": "Your next EMI due date is shown in the app or net banking under your loan account. We also send SMS and email reminders before the due date. Please ensure sufficient balance if you have auto-debit enabled."
+  },
+  {
+    "instruction": "What is the interest rate for home loan?",
+    "input": "",
+    "output": "Home loan interest rates are product-specific and available on our website and at the time of application. They may vary by amount, tenure, and profile. Contact our home loan team or check the product page for current rates."
+  },
+  {
+    "instruction": "How to pay loan online?",
+    "input": "",
+    "output": "You can pay your loan online through our app or net banking by selecting the loan account and entering the amount. You can also use NEFT/IMPS from any bank to your loan account number. Ensure correct account number and pay before due date."
+  },
+  {
+    "instruction": "How do I contact customer care?",
+    "input": "",
+    "output": "You can contact us through the toll-free number on our website or app, via the in-app chat, or by email. Our customer care is available 24/7 for urgent issues. Have your account or application details ready for faster assistance."
+  },
+  {
+    "instruction": "What is EMI?",
+    "input": "",
+    "output": "EMI (Equated Monthly Installment) is the fixed amount you pay each month towards your loan. It includes principal and interest. The amount is set at loan disbursal based on loan amount, rate, and tenure."
+  },
+  {
+    "instruction": "Can I prepay my loan?",
+    "input": "",
+    "output": "Prepayment is allowed as per your loan agreement. Full or partial prepayment may have applicable charges or a lock-in period. Check your agreement or the app for prepayment options and process. Prepayment can reduce total interest and tenure."
+  },
+  {
+    "instruction": "How to know my loan balance?",
+    "input": "",
+    "output": "Your loan balance is shown in the app or net banking under the loan account. You can also get it via SMS or by calling customer care with your loan account number. The balance is updated after each payment."
+  },
+  {
+    "instruction": "What documents for home loan?",
+    "input": "",
+    "output": "For a home loan you typically need ID proof, address proof, income proof, property documents, and NOC from the builder/society. The exact list is product-specific. Our home loan team can provide the checklist for your case."
+  },
+  {
+    "instruction": "How to get loan statement?",
+    "input": "",
+    "output": "Download your loan statement from the app or net banking under Loan > Statements. You can choose the date range. For a physical or stamped statement, request through customer care or visit the branch."
+  },
+  {
+    "instruction": "What is prepayment penalty?",
+    "input": "",
+    "output": "Prepayment penalty, if any, is mentioned in your loan agreement. Many retail loans allow prepayment with minimal or no charges after a lock-in. Check your agreement or contact us for your loan type."
+  },
+  {
+    "instruction": "How to update KYC?",
+    "input": "",
+    "output": "You can update KYC through the app using e-KYC with Aadhaar and OTP, or by submitting documents at a branch. We may request KYC periodically as per regulations. Keep your details current to avoid restrictions."
+  },
+  {
+    "instruction": "What is the customer care number?",
+    "input": "",
+    "output": "Our customer care number is on our official website and in the app under Contact Us. Use only numbers from these sources. We do not ask for OTP or password on call."
+  },
+  {
+    "instruction": "How to check loan eligibility online?",
+    "input": "",
+    "output": "Log in to our app or website and go to the Loans section. Use 'Check Eligibility' and provide the required details. You will see an indicative amount and terms. This is a soft inquiry and does not impact your credit score."
+  },
+  {
+    "instruction": "I need help with my loan.",
+    "input": "",
+    "output": "We are here to help. Please tell us whether you need information on eligibility, application status, EMI, payments, or something else. You can also use our app or call our helpline for immediate assistance."
+  },
+  {
+    "instruction": "What is the tenure for personal loan?",
+    "input": "",
+    "output": "Personal loan tenure varies by product and is typically from 12 months to 60 months. You can choose the tenure at the time of application. Longer tenure means lower EMI but higher total interest. Check the product page for the range available."
+  },
+  {
+    "instruction": "How do I get a NOC for my loan?",
+    "input": "",
+    "output": "After you close the loan, we issue a No Objection Certificate (NOC). You can request it from the app or by visiting the branch. For secured loans, the NOC is used to release the collateral. Keep it safely for your records."
+  },
+  {
+    "instruction": "What is part payment in loan?",
+    "input": "",
+    "output": "Part payment or partial prepayment is when you pay an amount over and above your EMI towards the principal. It can reduce your outstanding and total interest. Prepayment rules and any charges are in your loan agreement."
+  },
+  {
+    "instruction": "Can I get a top-up on my existing loan?",
+    "input": "",
+    "output": "Top-up loans may be available on existing products subject to eligibility and policy. It is an additional amount over your current loan. Check the app for pre-approved top-up offers or contact our customer care with your loan number."
+  },
+  {
+    "instruction": "What is the disbursement process?",
+    "input": "",
+    "output": "After approval, we disburse the loan as per your request—to your account or to the seller/dealer in case of vehicle or consumer loans. Disbursement may take 1–2 working days after documentation is complete. You will receive an SMS when the amount is credited."
+  },
+  {
+    "instruction": "How do I calculate my EMI?",
+    "input": "",
+    "output": "Use the EMI calculator on our website or app: enter loan amount, interest rate, and tenure to get the monthly EMI. The formula uses principal, monthly rate, and number of installments. I can also explain the formula if needed."
+  },
+  {
+    "instruction": "What is the lock-in period for prepayment?",
+    "input": "",
+    "output": "Lock-in period, if any, is the time during which full or partial prepayment may attract charges. It is stated in your loan agreement. After the lock-in, prepayment is usually allowed with minimal or no charges. Contact us for your product's terms."
+  },
+  {
+    "instruction": "How do I get my loan account number?",
+    "input": "",
+    "output": "Your loan account number is in your sanction letter, welcome letter, and in the app under Loan Details. It is also in the EMI reminder SMS. Use this number for making payments from other banks. Keep it confidential."
+  },
+  {
+    "instruction": "What is the interest rate for personal loan?",
+    "input": "",
+    "output": "Personal loan interest rates are product-specific and depend on your profile. Check the current rates on our website or app. The rate applicable to you will be communicated at the time of approval. Rates are subject to change."
+  },
+  {
+    "instruction": "Can I transfer my loan to another bank?",
+    "input": "",
+    "output": "Yes, you can transfer your loan through a balance transfer. The new bank pays off your existing loan and you repay the new bank, often at a different rate. Check our balance transfer offers on the app or contact us. Processing and terms apply."
+  },
+  {
+    "instruction": "What is foreclosure of loan?",
+    "input": "",
+    "output": "Foreclosure means closing the loan before the end of tenure by paying the entire outstanding amount. Foreclosure charges, if any, and the process are in your loan agreement. After foreclosure, we will issue an NOC."
+  },
+  {
+    "instruction": "How do I know my loan is approved?",
+    "input": "",
+    "output": "You will receive an SMS and email once your loan is approved, with the sanction details. You can also check the status in the app under Applications. The sanction letter is available in the app or will be sent to your email."
+  },
+  {
+    "instruction": "What is the minimum loan amount?",
+    "input": "",
+    "output": "Minimum loan amount varies by product. Check the product page on our website or app for the minimum and maximum limits. Personal and home loans have different thresholds. Contact us if you need the exact figure for your chosen product."
+  },
+  {
+    "instruction": "How do I cancel my loan application?",
+    "input": "",
+    "output": "You can withdraw your application before disbursal by contacting customer care or visiting the branch with your application reference. If any fee was paid, refund is as per policy. Once disbursed, the loan can only be closed by repayment or foreclosure."
+  },
+  {
+    "instruction": "What is a loan sanction letter?",
+    "input": "",
+    "output": "The sanction letter is the formal approval document stating the loan amount, rate, tenure, EMI, and terms. You receive it after approval, via email or in the app. You need to accept the terms and complete documentation for disbursal."
+  },
+  {
+    "instruction": "How do I activate net banking?",
+    "input": "",
+    "output": "After registration, use the login ID and password you set to activate net banking. On first login you may be asked to change the password. Ensure your mobile number is correct for OTP. If you face issues, use 'Forgot password' or contact customer care."
+  },
+  {
+    "instruction": "What is the minimum balance for savings account?",
+    "input": "",
+    "output": "Minimum balance requirement depends on your account type and is in our tariff. You can check it in the app under Account Details or on our website. Non-maintenance may attract charges. We have zero-balance accounts too; check if you are eligible."
+  },
+  {
+    "instruction": "How do I get a passbook?",
+    "input": "",
+    "output": "You can get a passbook from the branch. For digital passbook, use the app or net banking to view and download your transaction history. Some accounts are issued only with a digital passbook; check with the branch for your account type."
+  },
+  {
+    "instruction": "What is the charge for duplicate passbook?",
+    "input": "",
+    "output": "Charges for a duplicate passbook are as per our tariff and can be checked on our website or at the branch. You may need to submit a request form and ID proof. Digital passbook in the app is free."
+  },
+  {
+    "instruction": "How do I link my Aadhaar to my account?",
+    "input": "",
+    "output": "You can link Aadhaar through the app (Profile > Aadhaar Link), at the branch, or through net banking. You will need to provide your Aadhaar number and may need to verify with OTP. It is required for certain transactions and benefits."
+  },
+  {
+    "instruction": "What is the limit for cash deposit?",
+    "input": "",
+    "output": "Cash deposit limits may apply as per regulatory guidelines. For your account, check the limits in the app or at the branch. Deposits above a threshold may require PAN and source of funds. We can guide you based on the amount."
+  },
+  {
+    "instruction": "How do I request a demand draft?",
+    "input": "",
+    "output": "You can request a demand draft at the branch by filling the form and paying the amount plus DD charges. Some accounts allow DD request through net banking. Provide the payee name and amount. Charges are as per our tariff."
+  },
+  {
+    "instruction": "What is MCLR?",
+    "input": "",
+    "output": "MCLR (Marginal Cost of Lending Rate) is a benchmark used for floating rate loans. When MCLR changes, your loan rate may be reset as per the spread in your agreement. Your loan agreement states if your loan is MCLR-linked."
+  },
+  {
+    "instruction": "How do I add a beneficiary for transfer?",
+    "input": "",
+    "output": "Add a beneficiary in the app or net banking under Transfers > Add Beneficiary. Enter account number, IFSC, and name. Activation may take a few hours as per RBI guidelines. Then you can transfer up to your per-transaction and daily limits."
+  },
+  {
+    "instruction": "What is the cooling-off period for loan?",
+    "input": "",
+    "output": "Cooling-off period, if applicable, allows you to cancel the loan within a few days of disbursal and return the amount without heavy charges. It is product-specific. Check your sanction letter or contact us for your product."
+  },
+  {
+    "instruction": "How do I get a loan for debt consolidation?",
+    "input": "",
+    "output": "We offer personal loans that can be used for debt consolidation. Check eligibility on the app and apply. The amount depends on your profile. You can use the disbursement to pay off other debts and then repay us in one EMI. Terms and conditions apply."
+  },
+  {
+    "instruction": "What is the difference between NRE and NRO account?",
+    "input": "",
+    "output": "NRE accounts are for foreign income and are repatriable. NRO accounts are for Indian income of NRIs and have repatriation limits. Both are for NRIs. Choose based on your income source and repatriation needs. Our NRI desk can help you select."
+  },
+  {
+    "instruction": "How do I report a fraudulent transaction?",
+    "input": "",
+    "output": "Report immediately by calling our 24/7 helpline and blocking your card or account if needed. Lodge a complaint through the app or branch. We will investigate and guide you on the process. Keep all transaction details and do not share OTP or PIN with anyone."
+  },
+  {
+    "instruction": "What is the process for loan restructuring?",
+    "input": "",
+    "output": "Loan restructuring is considered in genuine hardship cases as per our policy. You need to contact our customer care or visit the branch with your loan details and reason. We will assess and may offer revised tenure or EMI. Documentation and eligibility apply."
+  },
+  {
+    "instruction": "How do I download my account statement?",
+    "input": "",
+    "output": "Download statements from the app or net banking under Account > Statements. Select the date range and format (PDF/Excel). For older statements or physical copies, request through customer care or the branch. Charges may apply as per tariff."
+  },
+  {
+    "instruction": "What is the interest rate on fixed deposit?",
+    "input": "",
+    "output": "Fixed deposit interest rates are published on our website and vary by tenure and amount. Senior citizens may get an additional rate. Check the current rates on our website or app. Rates are subject to change."
+  },
+  {
+    "instruction": "Where can I get help with my banking?",
+    "input": "",
+    "output": "You can get help through our 24/7 customer care helpline, the in-app chat, or by visiting any branch. For loan and account queries, use our app or net banking under Help. We are here to assist with eligibility, EMI, payments, and account-related questions."
+  },
+  {
+    "instruction": "Who do I contact for banking queries?",
+    "input": "",
+    "output": "Contact our customer care via the toll-free number on our website or app, use the in-app chat, or visit a branch. For loan-specific queries you can also check the app under Applications and Loan Status. Have your account or application details ready for faster help."
+  },
+  {
+    "instruction": "I have a question about my account or loan.",
+    "input": "",
+    "output": "We can help. Please ask your specific question—for example about eligibility, application status, EMI, payments, interest rates, or account services. You can also call our helpline or use the app for detailed assistance."
+  },
+  {
+    "instruction": "Tell me about your banking services.",
+    "input": "",
+    "output": "We offer savings and current accounts, personal and home loans, fixed deposits, cards, net banking, and mobile banking. You can check eligibility for loans on our app, view statements, make payments, and get support via customer care or branch. What would you like to know more about?"
+  }
+]
